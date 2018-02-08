@@ -1,0 +1,74 @@
+!<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Assignment 16</title>
+</head>
+
+
+<body>
+  <link rel="stylesheet" href="/css/master.css">
+<script src="" charset="utf-8">
+
+</script>
+  <h1>Subheading</h1>
+
+<p><b>The first sentence is bold.</b><i>The second sentence is in italics.</i><ins>The third sentence is underlines.</ins><del>The final sentence has a slash through it.</del></p>
+
+<ul>
+  <li>blue</li>
+  <li>red</li>
+  <li>yellow</li>
+</ul>
+
+
+<ol>
+  <li>green</li>
+  <li>orange</li>
+  <li>purple</li>
+</ol>
+
+<table>
+  <tr>
+    <td>id</td>
+    <td>first_name</td>
+    <td>last_name</td>
+    <td>email</td>
+    <td>gender</td>
+    <td>ip_address</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Emlyn</td>
+    <td>Dockwray</td>
+    <td>edockwray0@samsung.com</td>
+    <td>male</td>
+    <td>92.119.139.124</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Kenton</td>
+      <td>Higgonet</td>
+      <td>khiggonet1@skyrock.com</td>
+      <td>male</td>
+      <td>58.191.88.168</td>
+      </tr>
+    <tr>
+      <td>3</td>
+      <td>Cherye</td>
+      <td>Kristof</td>
+      <td>ckristof2@scientificamerican.com</td>
+      <td>female</td>
+      <td>193.89.36.229</td>
+    </tr>
+
+</table>
+
+
+<p><a href="style.css">    <a href="https://www.google.com">   <a href="#top">  <a href="mailto:jon@example.org">  </p>
+  <img src="images/mountain.jpg">
+
+</body>
+
+
+
+</html>
